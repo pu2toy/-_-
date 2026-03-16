@@ -1,5 +1,6 @@
-﻿<Properties StartupConfiguration="{510A9575-7106-4A23-8A5C-0E60CEA55050}|Default">
-  <MonoDevelop.Ide.ItemProperties.Task04 FirstBuild="True" />
+﻿<Properties StartupConfiguration="{BD9474FF-42EA-4553-B54F-EB9CC9552B61}|Default">
+  <MonoDevelop.Ide.ItemProperties.Task04 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Task05 FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Task02 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Task01 PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
