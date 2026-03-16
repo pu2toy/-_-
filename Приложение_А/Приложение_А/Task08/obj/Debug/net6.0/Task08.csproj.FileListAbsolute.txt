@@ -1,0 +1,15 @@
+/Users/boga/Desktop/Практика_КПиЯП/Приложение_А/Приложение_А/Task08/bin/Debug/net6.0/Task08
+/Users/boga/Desktop/Практика_КПиЯП/Приложение_А/Приложение_А/Task08/bin/Debug/net6.0/Task08.deps.json
+/Users/boga/Desktop/Практика_КПиЯП/Приложение_А/Приложение_А/Task08/bin/Debug/net6.0/Task08.runtimeconfig.json
+/Users/boga/Desktop/Практика_КПиЯП/Приложение_А/Приложение_А/Task08/bin/Debug/net6.0/Task08.dll
+/Users/boga/Desktop/Практика_КПиЯП/Приложение_А/Приложение_А/Task08/bin/Debug/net6.0/Task08.pdb
+/Users/boga/Desktop/Практика_КПиЯП/Приложение_А/Приложение_А/Task08/obj/Debug/net6.0/Task08.csproj.AssemblyReference.cache
+/Users/boga/Desktop/Практика_КПиЯП/Приложение_А/Приложение_А/Task08/obj/Debug/net6.0/Task08.GeneratedMSBuildEditorConfig.editorconfig
+/Users/boga/Desktop/Практика_КПиЯП/Приложение_А/Приложение_А/Task08/obj/Debug/net6.0/Task08.AssemblyInfoInputs.cache
+/Users/boga/Desktop/Практика_КПиЯП/Приложение_А/Приложение_А/Task08/obj/Debug/net6.0/Task08.AssemblyInfo.cs
+/Users/boga/Desktop/Практика_КПиЯП/Приложение_А/Приложение_А/Task08/obj/Debug/net6.0/Task08.csproj.CoreCompileInputs.cache
+/Users/boga/Desktop/Практика_КПиЯП/Приложение_А/Приложение_А/Task08/obj/Debug/net6.0/Task08.dll
+/Users/boga/Desktop/Практика_КПиЯП/Приложение_А/Приложение_А/Task08/obj/Debug/net6.0/refint/Task08.dll
+/Users/boga/Desktop/Практика_КПиЯП/Приложение_А/Приложение_А/Task08/obj/Debug/net6.0/Task08.pdb
+/Users/boga/Desktop/Практика_КПиЯП/Приложение_А/Приложение_А/Task08/obj/Debug/net6.0/Task08.genruntimeconfig.cache
+/Users/boga/Desktop/Практика_КПиЯП/Приложение_А/Приложение_А/Task08/obj/Debug/net6.0/ref/Task08.dll
