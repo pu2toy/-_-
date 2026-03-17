@@ -1,0 +1,15 @@
+/Users/boga/Projects/1_Принципы_ООП/Task01/bin/Debug/net6.0/Task01
+/Users/boga/Projects/1_Принципы_ООП/Task01/bin/Debug/net6.0/Task01.deps.json
+/Users/boga/Projects/1_Принципы_ООП/Task01/bin/Debug/net6.0/Task01.runtimeconfig.json
+/Users/boga/Projects/1_Принципы_ООП/Task01/bin/Debug/net6.0/Task01.dll
+/Users/boga/Projects/1_Принципы_ООП/Task01/bin/Debug/net6.0/Task01.pdb
+/Users/boga/Projects/1_Принципы_ООП/Task01/obj/Debug/net6.0/Task01.csproj.AssemblyReference.cache
+/Users/boga/Projects/1_Принципы_ООП/Task01/obj/Debug/net6.0/Task01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/boga/Projects/1_Принципы_ООП/Task01/obj/Debug/net6.0/Task01.AssemblyInfoInputs.cache
+/Users/boga/Projects/1_Принципы_ООП/Task01/obj/Debug/net6.0/Task01.AssemblyInfo.cs
+/Users/boga/Projects/1_Принципы_ООП/Task01/obj/Debug/net6.0/Task01.csproj.CoreCompileInputs.cache
+/Users/boga/Projects/1_Принципы_ООП/Task01/obj/Debug/net6.0/Task01.dll
+/Users/boga/Projects/1_Принципы_ООП/Task01/obj/Debug/net6.0/refint/Task01.dll
+/Users/boga/Projects/1_Принципы_ООП/Task01/obj/Debug/net6.0/Task01.pdb
+/Users/boga/Projects/1_Принципы_ООП/Task01/obj/Debug/net6.0/Task01.genruntimeconfig.cache
+/Users/boga/Projects/1_Принципы_ООП/Task01/obj/Debug/net6.0/ref/Task01.dll
