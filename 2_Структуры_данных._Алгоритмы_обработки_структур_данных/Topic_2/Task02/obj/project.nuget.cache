@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dvygNXwbQbRum/Zq6nY8PrCNdOg9VuzY28uYO09R/cDd10WOXokOQWTSt0bY8IuOqiBcBOx9t5q/LiZY72LdJA==",
+  "success": true,
+  "projectFilePath": "/Users/boga/Desktop/Практика_КПиЯП/2_Структуры_данных._Алгоритмы_обработки_структур_данных/Topic_2/Task02/Task02.csproj",
+  "expectedPackageFiles": [
+    "/Users/boga/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/boga/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.31/microsoft.netcore.app.host.osx-x64.6.0.31.nupkg.sha512",
+    "/Users/boga/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

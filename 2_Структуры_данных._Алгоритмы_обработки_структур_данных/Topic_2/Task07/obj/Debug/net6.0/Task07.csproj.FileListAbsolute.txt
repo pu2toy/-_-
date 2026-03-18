@@ -1,0 +1,15 @@
+/Users/boga/Desktop/Практика_КПиЯП/2_Структуры_данных._Алгоритмы_обработки_структур_данных/Topic_2/Task07/bin/Debug/net6.0/Task07
+/Users/boga/Desktop/Практика_КПиЯП/2_Структуры_данных._Алгоритмы_обработки_структур_данных/Topic_2/Task07/bin/Debug/net6.0/Task07.deps.json
+/Users/boga/Desktop/Практика_КПиЯП/2_Структуры_данных._Алгоритмы_обработки_структур_данных/Topic_2/Task07/bin/Debug/net6.0/Task07.runtimeconfig.json
+/Users/boga/Desktop/Практика_КПиЯП/2_Структуры_данных._Алгоритмы_обработки_структур_данных/Topic_2/Task07/bin/Debug/net6.0/Task07.dll
+/Users/boga/Desktop/Практика_КПиЯП/2_Структуры_данных._Алгоритмы_обработки_структур_данных/Topic_2/Task07/bin/Debug/net6.0/Task07.pdb
+/Users/boga/Desktop/Практика_КПиЯП/2_Структуры_данных._Алгоритмы_обработки_структур_данных/Topic_2/Task07/obj/Debug/net6.0/Task07.csproj.AssemblyReference.cache
+/Users/boga/Desktop/Практика_КПиЯП/2_Структуры_данных._Алгоритмы_обработки_структур_данных/Topic_2/Task07/obj/Debug/net6.0/Task07.GeneratedMSBuildEditorConfig.editorconfig
+/Users/boga/Desktop/Практика_КПиЯП/2_Структуры_данных._Алгоритмы_обработки_структур_данных/Topic_2/Task07/obj/Debug/net6.0/Task07.AssemblyInfoInputs.cache
+/Users/boga/Desktop/Практика_КПиЯП/2_Структуры_данных._Алгоритмы_обработки_структур_данных/Topic_2/Task07/obj/Debug/net6.0/Task07.AssemblyInfo.cs
+/Users/boga/Desktop/Практика_КПиЯП/2_Структуры_данных._Алгоритмы_обработки_структур_данных/Topic_2/Task07/obj/Debug/net6.0/Task07.csproj.CoreCompileInputs.cache
+/Users/boga/Desktop/Практика_КПиЯП/2_Структуры_данных._Алгоритмы_обработки_структур_данных/Topic_2/Task07/obj/Debug/net6.0/Task07.dll
+/Users/boga/Desktop/Практика_КПиЯП/2_Структуры_данных._Алгоритмы_обработки_структур_данных/Topic_2/Task07/obj/Debug/net6.0/refint/Task07.dll
+/Users/boga/Desktop/Практика_КПиЯП/2_Структуры_данных._Алгоритмы_обработки_структур_данных/Topic_2/Task07/obj/Debug/net6.0/Task07.pdb
+/Users/boga/Desktop/Практика_КПиЯП/2_Структуры_данных._Алгоритмы_обработки_структур_данных/Topic_2/Task07/obj/Debug/net6.0/Task07.genruntimeconfig.cache
+/Users/boga/Desktop/Практика_КПиЯП/2_Структуры_данных._Алгоритмы_обработки_структур_данных/Topic_2/Task07/obj/Debug/net6.0/ref/Task07.dll

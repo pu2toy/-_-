@@ -1,23 +1,32 @@
-﻿<Properties StartupConfiguration="{95C0DC09-3488-4A83-BE57-44059573D207}|Default">
+﻿<Properties StartupConfiguration="{288553B7-2ADD-411B-B4D8-2FD3AB50B1C5}|Default">
   <MonoDevelop.Ide.ItemProperties.Task08 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Task10 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Task10 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Task04 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Task06 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Task01 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Task03 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Task05 PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Task02/Program.cs">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task10/Program.cs">
     <Files>
-      <File FileName="Task01/Program.cs" Line="16" Column="6" />
-      <File FileName="Task02/Program.cs" Line="1" Column="1" />
+      <File FileName="Task09/Program.cs" Line="1" Column="1" />
+      <File FileName="Task10/Program.cs" Line="4" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="1_Принципы_ООП" expanded="True" selected="True">
+          <Node name="1_Принципы_ООП">
+            <Node name="Task01" expanded="True" />
             <Node name="Task02" expanded="True" />
+            <Node name="Task07" expanded="True" />
+            <Node name="Task08" expanded="True" />
+            <Node name="Task09" expanded="True" />
+            <Node name="Task10" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
