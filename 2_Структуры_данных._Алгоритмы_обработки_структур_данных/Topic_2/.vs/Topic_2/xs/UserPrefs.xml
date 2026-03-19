@@ -1,13 +1,43 @@
-﻿<Properties StartupConfiguration="{CC00028D-DE8E-490E-8FDD-BA26F1B2072D}|Default">
+﻿<Properties StartupConfiguration="{346E7264-5987-4874-A3D8-442F98751F6D}|Default">
   <MonoDevelop.Ide.ItemProperties.Task03 PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.Task07 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Task09 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.Task01 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Task06 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Task04 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Task10 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Task10 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Task05 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Task02 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task02/Program.cs">
+    <Files>
+      <File FileName="Task01/Program.cs" Line="1" Column="1" />
+      <File FileName="Task02/Program.cs" Line="15" Column="25" />
+      <File FileName="Task03/Program.cs" Line="38" Column="5" />
+      <File FileName="Task04/Program.cs" Line="61" Column="6" />
+      <File FileName="Task05/Program.cs" Line="24" Column="10" />
+      <File FileName="Task06/Program.cs" Line="5" Column="42" />
+      <File FileName="Task07/Program.cs" Line="9" Column="2" />
+      <File FileName="Task08/Program.cs" Line="35" Column="49" />
+      <File FileName="Task09/Program.cs" Line="14" Column="2" />
+      <File FileName="Task10/Program.cs" Line="11" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Topic_2" expanded="True">
+            <Node name="Task02">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Task08 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
