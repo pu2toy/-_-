@@ -1,7 +1,30 @@
-﻿<Properties StartupConfiguration="{AFC4FDAF-6FB8-4212-AA1A-B9FE25DD1453}|Default">
-  <MonoDevelop.Ide.ItemProperties.Task04 FirstBuild="True" />
+﻿<Properties StartupConfiguration="{0FB1DD7C-5172-4D42-8888-072D03B7989E}|Default">
+  <MonoDevelop.Ide.ItemProperties.Task04 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.Task01 PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.Task03 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Task02 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task02/Program.cs">
+    <Files>
+      <File FileName="Task02/ArrayUtils.cs" Line="1" Column="1" />
+      <File FileName="Task02/Person.cs" Line="1" Column="1" />
+      <File FileName="Task02/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Topic_3" expanded="True">
+            <Node name="Task02" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
 </Properties>
