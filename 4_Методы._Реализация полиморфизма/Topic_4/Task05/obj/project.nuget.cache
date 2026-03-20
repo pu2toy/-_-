@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GqUKUPG9pU/gUf8U0A+n8Aw7hDs6Nu2kBZd+ZA5jQRwYysPY2+V7ChrMjOgv0boeYP6gJDLgXWNnxT3VTxjGJA==",
+  "success": true,
+  "projectFilePath": "/Users/boga/Desktop/Практика_КПиЯП/4_Методы._Реализация полиморфизма/Topic_4/Task05/Task05.csproj",
+  "expectedPackageFiles": [
+    "/Users/boga/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/boga/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.31/microsoft.netcore.app.host.osx-x64.6.0.31.nupkg.sha512",
+    "/Users/boga/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
