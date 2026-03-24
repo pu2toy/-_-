@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Stybj0SU0Arej9UKzLNT1pObFmW+KZD9M8uJy7Egf23Jz7a5x5iGElxh7kLe61Elv9UHSDUnGmBUqoL69zCPdA==",
+  "success": true,
+  "projectFilePath": "/Users/boga/Desktop/КПиЯП/7_Структура_обработки_исключений/Topic_7/Task02/Task02.csproj",
+  "expectedPackageFiles": [
+    "/Users/boga/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/boga/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.31/microsoft.netcore.app.host.osx-x64.6.0.31.nupkg.sha512",
+    "/Users/boga/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
