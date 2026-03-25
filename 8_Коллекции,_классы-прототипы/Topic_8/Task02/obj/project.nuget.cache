@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ayEzMitHSC1hlaGTElieheDyrruFTZvdYSvolBgWV6oBaHooxadAkK7cT/OquX96jDLaSNWNm1bsZ44eBQ1nGA==",
+  "success": true,
+  "projectFilePath": "/Users/boga/Desktop/КПиЯП/8_Коллекции,_классы-прототипы/Topic_8/Task02/Task02.csproj",
+  "expectedPackageFiles": [
+    "/Users/boga/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/boga/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.31/microsoft.netcore.app.host.osx-x64.6.0.31.nupkg.sha512",
+    "/Users/boga/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
