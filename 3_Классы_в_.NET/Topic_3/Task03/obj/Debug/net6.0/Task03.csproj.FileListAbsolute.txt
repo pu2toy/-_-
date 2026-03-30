@@ -1,0 +1,15 @@
+/Users/boga/Desktop/Практика_КПиЯП/3_Классы_в_.NET/Topic_3/Task03/bin/Debug/net6.0/Task03
+/Users/boga/Desktop/Практика_КПиЯП/3_Классы_в_.NET/Topic_3/Task03/bin/Debug/net6.0/Task03.deps.json
+/Users/boga/Desktop/Практика_КПиЯП/3_Классы_в_.NET/Topic_3/Task03/bin/Debug/net6.0/Task03.runtimeconfig.json
+/Users/boga/Desktop/Практика_КПиЯП/3_Классы_в_.NET/Topic_3/Task03/bin/Debug/net6.0/Task03.dll
+/Users/boga/Desktop/Практика_КПиЯП/3_Классы_в_.NET/Topic_3/Task03/bin/Debug/net6.0/Task03.pdb
+/Users/boga/Desktop/Практика_КПиЯП/3_Классы_в_.NET/Topic_3/Task03/obj/Debug/net6.0/Task03.csproj.AssemblyReference.cache
+/Users/boga/Desktop/Практика_КПиЯП/3_Классы_в_.NET/Topic_3/Task03/obj/Debug/net6.0/Task03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/boga/Desktop/Практика_КПиЯП/3_Классы_в_.NET/Topic_3/Task03/obj/Debug/net6.0/Task03.AssemblyInfoInputs.cache
+/Users/boga/Desktop/Практика_КПиЯП/3_Классы_в_.NET/Topic_3/Task03/obj/Debug/net6.0/Task03.AssemblyInfo.cs
+/Users/boga/Desktop/Практика_КПиЯП/3_Классы_в_.NET/Topic_3/Task03/obj/Debug/net6.0/Task03.csproj.CoreCompileInputs.cache
+/Users/boga/Desktop/Практика_КПиЯП/3_Классы_в_.NET/Topic_3/Task03/obj/Debug/net6.0/Task03.dll
+/Users/boga/Desktop/Практика_КПиЯП/3_Классы_в_.NET/Topic_3/Task03/obj/Debug/net6.0/refint/Task03.dll
+/Users/boga/Desktop/Практика_КПиЯП/3_Классы_в_.NET/Topic_3/Task03/obj/Debug/net6.0/Task03.pdb
+/Users/boga/Desktop/Практика_КПиЯП/3_Классы_в_.NET/Topic_3/Task03/obj/Debug/net6.0/Task03.genruntimeconfig.cache
+/Users/boga/Desktop/Практика_КПиЯП/3_Классы_в_.NET/Topic_3/Task03/obj/Debug/net6.0/ref/Task03.dll

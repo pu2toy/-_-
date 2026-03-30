@@ -1,0 +1,15 @@
+/Users/boga/Desktop/КПиЯП/6_Делегаты._События/Topic_6/Task04/bin/Debug/net6.0/Task04
+/Users/boga/Desktop/КПиЯП/6_Делегаты._События/Topic_6/Task04/bin/Debug/net6.0/Task04.deps.json
+/Users/boga/Desktop/КПиЯП/6_Делегаты._События/Topic_6/Task04/bin/Debug/net6.0/Task04.runtimeconfig.json
+/Users/boga/Desktop/КПиЯП/6_Делегаты._События/Topic_6/Task04/bin/Debug/net6.0/Task04.dll
+/Users/boga/Desktop/КПиЯП/6_Делегаты._События/Topic_6/Task04/bin/Debug/net6.0/Task04.pdb
+/Users/boga/Desktop/КПиЯП/6_Делегаты._События/Topic_6/Task04/obj/Debug/net6.0/Task04.csproj.AssemblyReference.cache
+/Users/boga/Desktop/КПиЯП/6_Делегаты._События/Topic_6/Task04/obj/Debug/net6.0/Task04.GeneratedMSBuildEditorConfig.editorconfig
+/Users/boga/Desktop/КПиЯП/6_Делегаты._События/Topic_6/Task04/obj/Debug/net6.0/Task04.AssemblyInfoInputs.cache
+/Users/boga/Desktop/КПиЯП/6_Делегаты._События/Topic_6/Task04/obj/Debug/net6.0/Task04.AssemblyInfo.cs
+/Users/boga/Desktop/КПиЯП/6_Делегаты._События/Topic_6/Task04/obj/Debug/net6.0/Task04.csproj.CoreCompileInputs.cache
+/Users/boga/Desktop/КПиЯП/6_Делегаты._События/Topic_6/Task04/obj/Debug/net6.0/Task04.dll
+/Users/boga/Desktop/КПиЯП/6_Делегаты._События/Topic_6/Task04/obj/Debug/net6.0/refint/Task04.dll
+/Users/boga/Desktop/КПиЯП/6_Делегаты._События/Topic_6/Task04/obj/Debug/net6.0/Task04.pdb
+/Users/boga/Desktop/КПиЯП/6_Делегаты._События/Topic_6/Task04/obj/Debug/net6.0/Task04.genruntimeconfig.cache
+/Users/boga/Desktop/КПиЯП/6_Делегаты._События/Topic_6/Task04/obj/Debug/net6.0/ref/Task04.dll

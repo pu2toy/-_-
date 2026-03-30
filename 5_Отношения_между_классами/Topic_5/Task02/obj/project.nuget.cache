@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+TZ4rxhOfJki3oaPw07V+rDuQZP18R1THnBKVq4fML16ALb7a0XoxO/qjdCJz32SyQNcFanpjKkyygMNkQXdRA==",
+  "success": true,
+  "projectFilePath": "/Users/boga/Desktop/Практика_КПиЯП/5_Отношения_между_классами/Topic_5/Task02/Task02.csproj",
+  "expectedPackageFiles": [
+    "/Users/boga/.nuget/packages/bogus/35.6.5/bogus.35.6.5.nupkg.sha512",
+    "/Users/boga/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/boga/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.31/microsoft.netcore.app.host.osx-x64.6.0.31.nupkg.sha512",
+    "/Users/boga/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

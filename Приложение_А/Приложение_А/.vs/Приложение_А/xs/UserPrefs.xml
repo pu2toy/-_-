@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{89522E28-9ED4-4F8B-AF92-BC0807B584EA}|Default">
+  <MonoDevelop.Ide.ItemProperties.Task04 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Task05 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Task02 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task08/Program.cs">
+    <Files>
+      <File FileName="Task01/Program.cs" Line="12" Column="2" />
+      <File FileName="Task02/Program.cs" Line="1" Column="1" />
+      <File FileName="Task03/Program.cs" Line="11" Column="2" />
+      <File FileName="Task04/Program.cs" Line="14" Column="2" />
+      <File FileName="Task05/Program.cs" Line="14" Column="2" />
+      <File FileName="Task06/Program.cs" Line="12" Column="2" />
+      <File FileName="Task07/Program.cs" Line="13" Column="2" />
+      <File FileName="Task08/Program.cs" Line="12" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Приложение_А">
+            <Node name="Task04">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Task08">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Task01 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Task06 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Task03 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Task08 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Task07 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

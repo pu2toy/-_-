@@ -1,0 +1,15 @@
+/Users/boga/Desktop/Практика_КПиЯП/1_Принципы_ООП/Task05/bin/Debug/net6.0/Task05
+/Users/boga/Desktop/Практика_КПиЯП/1_Принципы_ООП/Task05/bin/Debug/net6.0/Task05.deps.json
+/Users/boga/Desktop/Практика_КПиЯП/1_Принципы_ООП/Task05/bin/Debug/net6.0/Task05.runtimeconfig.json
+/Users/boga/Desktop/Практика_КПиЯП/1_Принципы_ООП/Task05/bin/Debug/net6.0/Task05.dll
+/Users/boga/Desktop/Практика_КПиЯП/1_Принципы_ООП/Task05/bin/Debug/net6.0/Task05.pdb
+/Users/boga/Desktop/Практика_КПиЯП/1_Принципы_ООП/Task05/obj/Debug/net6.0/Task05.csproj.AssemblyReference.cache
+/Users/boga/Desktop/Практика_КПиЯП/1_Принципы_ООП/Task05/obj/Debug/net6.0/Task05.GeneratedMSBuildEditorConfig.editorconfig
+/Users/boga/Desktop/Практика_КПиЯП/1_Принципы_ООП/Task05/obj/Debug/net6.0/Task05.AssemblyInfoInputs.cache
+/Users/boga/Desktop/Практика_КПиЯП/1_Принципы_ООП/Task05/obj/Debug/net6.0/Task05.AssemblyInfo.cs
+/Users/boga/Desktop/Практика_КПиЯП/1_Принципы_ООП/Task05/obj/Debug/net6.0/Task05.csproj.CoreCompileInputs.cache
+/Users/boga/Desktop/Практика_КПиЯП/1_Принципы_ООП/Task05/obj/Debug/net6.0/Task05.dll
+/Users/boga/Desktop/Практика_КПиЯП/1_Принципы_ООП/Task05/obj/Debug/net6.0/refint/Task05.dll
+/Users/boga/Desktop/Практика_КПиЯП/1_Принципы_ООП/Task05/obj/Debug/net6.0/Task05.pdb
+/Users/boga/Desktop/Практика_КПиЯП/1_Принципы_ООП/Task05/obj/Debug/net6.0/Task05.genruntimeconfig.cache
+/Users/boga/Desktop/Практика_КПиЯП/1_Принципы_ООП/Task05/obj/Debug/net6.0/ref/Task05.dll

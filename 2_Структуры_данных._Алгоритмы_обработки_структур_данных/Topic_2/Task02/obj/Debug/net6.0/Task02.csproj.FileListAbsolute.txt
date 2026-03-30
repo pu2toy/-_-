@@ -1,0 +1,15 @@
+/Users/boga/Desktop/Практика_КПиЯП/2_Структуры_данных._Алгоритмы_обработки_структур_данных/Topic_2/Task02/bin/Debug/net6.0/Task02
+/Users/boga/Desktop/Практика_КПиЯП/2_Структуры_данных._Алгоритмы_обработки_структур_данных/Topic_2/Task02/bin/Debug/net6.0/Task02.deps.json
+/Users/boga/Desktop/Практика_КПиЯП/2_Структуры_данных._Алгоритмы_обработки_структур_данных/Topic_2/Task02/bin/Debug/net6.0/Task02.runtimeconfig.json
+/Users/boga/Desktop/Практика_КПиЯП/2_Структуры_данных._Алгоритмы_обработки_структур_данных/Topic_2/Task02/bin/Debug/net6.0/Task02.dll
+/Users/boga/Desktop/Практика_КПиЯП/2_Структуры_данных._Алгоритмы_обработки_структур_данных/Topic_2/Task02/bin/Debug/net6.0/Task02.pdb
+/Users/boga/Desktop/Практика_КПиЯП/2_Структуры_данных._Алгоритмы_обработки_структур_данных/Topic_2/Task02/obj/Debug/net6.0/Task02.csproj.AssemblyReference.cache
+/Users/boga/Desktop/Практика_КПиЯП/2_Структуры_данных._Алгоритмы_обработки_структур_данных/Topic_2/Task02/obj/Debug/net6.0/Task02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/boga/Desktop/Практика_КПиЯП/2_Структуры_данных._Алгоритмы_обработки_структур_данных/Topic_2/Task02/obj/Debug/net6.0/Task02.AssemblyInfoInputs.cache
+/Users/boga/Desktop/Практика_КПиЯП/2_Структуры_данных._Алгоритмы_обработки_структур_данных/Topic_2/Task02/obj/Debug/net6.0/Task02.AssemblyInfo.cs
+/Users/boga/Desktop/Практика_КПиЯП/2_Структуры_данных._Алгоритмы_обработки_структур_данных/Topic_2/Task02/obj/Debug/net6.0/Task02.csproj.CoreCompileInputs.cache
+/Users/boga/Desktop/Практика_КПиЯП/2_Структуры_данных._Алгоритмы_обработки_структур_данных/Topic_2/Task02/obj/Debug/net6.0/Task02.dll
+/Users/boga/Desktop/Практика_КПиЯП/2_Структуры_данных._Алгоритмы_обработки_структур_данных/Topic_2/Task02/obj/Debug/net6.0/refint/Task02.dll
+/Users/boga/Desktop/Практика_КПиЯП/2_Структуры_данных._Алгоритмы_обработки_структур_данных/Topic_2/Task02/obj/Debug/net6.0/Task02.pdb
+/Users/boga/Desktop/Практика_КПиЯП/2_Структуры_данных._Алгоритмы_обработки_структур_данных/Topic_2/Task02/obj/Debug/net6.0/Task02.genruntimeconfig.cache
+/Users/boga/Desktop/Практика_КПиЯП/2_Структуры_данных._Алгоритмы_обработки_структур_данных/Topic_2/Task02/obj/Debug/net6.0/ref/Task02.dll
