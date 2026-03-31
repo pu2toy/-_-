@@ -1,0 +1,23 @@
+﻿<Window x:Class="Task01.Windows.ClientDialogWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task01.Windows"
+        mc:Ignorable="d"
+        Title="ClientDialogWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <Label Content="ФИО" Margin="20,0 ,0, 0"/>
+            <TextBox Margin="20, 0, 20, 0"
+                     Text="{Binding Client.FullName, UpdateSourceTrigger=PropertyChanged}"/>
+            <Label Content="Контакт" Margin="20, 0, 0, 0"/>
+            <TextBox Margin="20, 0, 20, 0"
+                     Text="{Binding Client.Contact, UpdateSourceTrigger=PropertyChanged}"/>
+        </StackPanel>
+        <StackPanel VerticalAlignment="Bottom" Width="200">
+            <Button Margin="10" Content="Сохранить" Command="{Binding SaveCommand}"/>
+            <Button Margin ="10" Content="Отмена" Command="{Binding CancelCommand}"/>
+        </StackPanel>
+    </Grid>
+</Window>
