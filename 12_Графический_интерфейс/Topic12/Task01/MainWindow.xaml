@@ -1,0 +1,32 @@
+﻿<Window x:Class="Task01.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="CRM" Height="450" Width="900">
+
+    <Grid Margin="10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="200"/>
+        </Grid.ColumnDefinitions>
+        <ListView x:Name="ClientList"
+                  Grid.Column="0"
+                  ItemsSource="{Binding Clients}">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="ФИО"
+                                    Width="345"
+                                    DisplayMemberBinding="{Binding FullName}"/>
+                    <GridViewColumn Header="Контакт"
+                                    Width="345"
+                                    DisplayMemberBinding="{Binding Contact}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <StackPanel Grid.Column="1" Margin="10">
+            <Button Content="Добавить" Margin="20" Click="AddClient_Click"/>
+            <Button Content="Редактировать" Margin="20" Click="EditClient_Click"/>
+            <Button Content="Удалить" Margin="20" Click="DeleteClient_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
