@@ -1,0 +1,58 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows;
+using System.Windows.Input;
+
+namespace Task01.ViewModels
+{
+    public class ClientDialogViewModel
+    {
+        public List<string> ClientTypes { get; } = new List<string>
+            {
+                "Обычный",
+                "VIP"
+            };
+        public Client Client { get; set; } = new Client();
+        public bool ClientSaved { get; private set; } = false;
+
+        public ICommand SaveCommand { get; }
+        public ICommand CancelCommand { get; }
+
+        public ClientDialogViewModel()
+        {
+            SaveCommand = new RelayCommand(_ => Save());
+            CancelCommand = new RelayCommand(_ => Cancel());
+        }
+
+        private void Save()
+        {
+            if (string.IsNullOrWhiteSpace(Client.FullName))
+            {
+                MessageBox.Show("Введите имя клиента");
+                return;
+            }
+            ClientSaved = true;
+            CloseWindow();
+        }
+
+        private void Cancel()
+        {
+            ClientSaved = false; CloseWindow();
+        }
+
+        private void CloseWindow()
+        {
+            foreach (Window window in Application.Current.Windows)
+            {
+                if (window.DataContext == this)
+                {
+                    window.Close();
+                    break;
+                }
+            }
+        }
+    }
+}
