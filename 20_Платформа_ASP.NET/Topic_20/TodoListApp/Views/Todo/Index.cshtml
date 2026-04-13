@@ -1,0 +1,43 @@
+﻿@model List<TodoListApp.Models.TodoItem>
+
+<h2>Список задач</h2>
+
+@if (TempData["Message"] != null)
+{
+    <div style="color: green;">
+        @TempData["Message"]
+    </div>
+}
+
+<form method="post" asp-action="Add">
+    <input type="text" name="Description" placeholder="Описание задачи" required />
+
+    <input type="date" name="DueDate" required />
+
+    <button type="submit">Добавить</button>
+</form>
+
+<br />
+
+<a href="/Todo">Все</a> |
+<a href="/Todo?status=active">Активные</a> |
+<a href="/Todo?status=completed">Завершённые</a>
+
+<ul>
+    @foreach (var item in Model)
+    {
+        <li>
+            <b>@item.Title</b>
+            (до: @item.DueDate.ToShortDateString())
+
+            @if (!item.IsCompleted)
+            {
+                <a href="/Todo/Complete/@item.Id">Завершить</a>
+            }
+            else
+            {
+                <span>(Готово)</span>
+            }
+        </li>
+    }
+</ul>
